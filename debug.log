@@ -1,0 +1,3 @@
+[1011/132431.706:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1011/190349.693:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Home\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0b4a5c7e-8981-4734-b01a-86bd61fc3dde: Системе не удается найти указанный путь. (0x3)
+[1018/131349.356:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
